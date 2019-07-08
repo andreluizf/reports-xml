@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.15">
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/PasswordManagerFactory.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/JAXBDateAdapter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/ExtratorUsuarioLogadoAcegiSecurity.java">
+<error line="22" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/Mio4WebException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/RedirectFilter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/Dado.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/Exceptions.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/AppServletContextListener.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/DatabaseConverter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/HTMLEntitiesUtils.java">
+<error line="27" column="41" severity="warning" message="O nome &apos;html_entities_table&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+<error line="282" column="40" severity="warning" message="O nome &apos;htmlentities_map&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+<error line="287" column="40" severity="warning" message="O nome &apos;unhtmlentities_map&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/RequestCookieSecureSetter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/ErrorUtils.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/UsuarioBdInterceptor.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/DateUtils.java">
+<error line="162" column="42" severity="warning" message="O nome &apos;FORMAT&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/ElementoHistorico.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/GenericReportColumn.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/DbUtils.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/ExceptionUtils.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/EmptyToNullStringELResolver.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/ResponseCookieSecureSetter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/ProcessarSolicitacoesEnvioEmail.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/BloquearUsuarioPorInatividade.java">
+<error line="15" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/MateraDS.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/filter/csrf/CSRFServletRedirectFilter.java">
+<error line="23" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/filter/csrf/CSRFInputHiddenFilter.java">
+<error line="28" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/filter/csrf/CsrfViewHandler.java">
+<error line="19" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/filter/csrf/CrossSiteRequestForgeryControl.java">
+<error line="199" column="9" severity="info" message="A complexidade NPath é de 2,304 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/filter/csrf/CrossSiteRequestForgeryFilter.java">
+<error line="24" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/filter/csrf/CharResponseWrapper.java">
+<error line="27" column="31" severity="warning" message="O nome &apos;HEADER_CONTENT_TYPE&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/filter/CookieFilter.java">
+<error line="27" column="30" severity="warning" message="O nome &apos;NAME_PARAM_COOKIE&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/filter/MyFacesExtensionResourceNotAllowFilter.java">
+<error line="53" column="17" severity="info" message="A complexidade da expressão booleana é de 5 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/SuperCsv.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/BeanWrapperUtil.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/foureyes/MetadataSupport.java">
+<error line="69" column="5" severity="info" message="A complexidade NPath é de 423 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="69" column="5" severity="info" message="O NCSS para este método é de 63 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/foureyes/PropertyMap.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/BundleMap.java">
+<error line="26" column="28" severity="warning" message="O nome &apos;_bundle&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="27" column="18" severity="warning" message="O nome &apos;_values&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="38" column="39" severity="warning" message="O nome &apos;EMPTY_ENUMERATION&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/BeanWrapper.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/hibernate/GeneratedIdentifierGenerator.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/SNType.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/ArquivosUtil.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/Base64Utils.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/SystemInit.java">
+<error line="40" column="32" severity="warning" message="O nome &apos;__CLASS_VERSION__&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/DesbloquearUsuarioPorTempo.java">
+<error line="18" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/StringUtil.java">
+<error line="85" column="17" severity="info" message="A complexidade da expressão booleana é de 4 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/password/LoginEqualsPasswordChecker.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/password/SpecialCharactersChecker.java">
+<error line="20" column="33" severity="warning" message="O nome &apos;requiredCharactes&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/password/AlphanumericPasswordChecker.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/password/PasswordChecker.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/password/UniqueCharacterChecker.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/password/InvalidCharacterChecker.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/password/CharacterSequenceChecker.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/password/AtSignCharacterChecker.java">
+<error line="8" column="35" severity="warning" message="O nome &apos;atSignCharacterChecker&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/util/GenericCSVReport.java">
+<error line="14" column="31" severity="warning" message="O nome &apos;SEPARATOR&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/jms/expurgo/ExpurgadorMensagensDeTopicos.java">
+<error line="12" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/jms/expurgo/PMtrMensageria_ExpurgaMensagensProcessadas.java">
+<error line="15" column="14" severity="warning" message="O nome &apos;PMtrMensageria_ExpurgaMensagensProcessadas&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/AllUsersBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/NivelOperacaoBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/EmailSenderBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/LogBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/UsuarioSistemaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/NavRelColunaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ConfigLogBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelatAuditoriaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/OracleUserBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/TablespaceBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/AcessoUsuarioBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/HistoricoBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ConsMsgBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/DbaProfileBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/PendenciaHistoricoBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ValidaSenhaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/LogBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangeBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ConfigMioBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangeOperBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RefreshBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/JanelaSistemaBUImpl.java">
+<error line="96" column="9" severity="info" message="A complexidade da expressão booleana é de 6 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/OracleUserBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/DbaProfileBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ConnectionBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/EmailReportSenderBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelNivelUsuarioBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/SubSistemaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/OperAdministradorBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/AcessoUsuarioBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/NavRelColunaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/OrdemRelatBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/PendenciaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelatAuditoriaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelatLogOperacoesBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ConnectionBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/MensagemBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/AuditoriaUsrBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/TabelaBUImpl.java">
+<error line="78" column="25" severity="info" message="A complexidade da expressão booleana é de 4 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelatLoginInvalidoBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/NivelOperUsrSisBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/LogCleanerBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/PendenciaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangeDataBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangeProcessBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ServicoBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelNivelOperJanelaSisBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ConsBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/IdiomaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/NavProcBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/UnidadeNegocioBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/EmpresaBUImpl.java">
+<error line="80" column="9" severity="info" message="A complexidade NPath é de 6,150 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="80" column="39" severity="warning" message="O nome &apos;CNPJ&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="84" column="13" severity="info" message="A complexidade da expressão booleana é de 10 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelatAuditTabelasBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/TabelaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RefreshBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangeProcessBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ConsMsgBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RecursoMioBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/EmailReportConfigBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/EscalonamentoProcBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangePolicyBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/CheckPasswordBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/SpringJobConfigBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/SmtpMioBUImpl.java">
+<error line="97" column="13" severity="info" message="A complexidade da expressão booleana é de 4 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/UsuarioSistemaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/OrdemRelatBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/UserTablespacesBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/AuditoriaUsrBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/OperAdministradorBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/AllUsersBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/AuditoriaTabelaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelAdmSubSisBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/AuditoriaTabelaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelNivelUsuarioBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/NavProcBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/PermissaoJanelaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/SubSistemaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangeStatusBUImpl.java">
+<error line="20" column="29" severity="warning" message="O nome &apos;ChangeStatusDAO&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/EscalonamentoProcBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/PermissaoJanelaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelNivelOperJanelaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ValidaSenhaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/EmailReportConfigBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/UsuarioBdBU.java">
+<error line="74" column="30" severity="warning" message="O nome &apos;CPF&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/DbaTablespaceBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/NivelOperUsrSisBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/EmailSenderBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelatLoginInvalidoBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelatLogOperacoesBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RegistraAcessosBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/xmlreceipts/MateraBrazilTaxReceipt.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/xmlreceipts/Receipts.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/xmlreceipts/XmlReportException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/xmlreceipts/TaxReceipts.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/xmlreceipts/ReceiptXmlExport.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/xmlreceipts/ReceiptXmlExportBean.java">
+<error line="29" column="1" severity="info" message="A complexidade Fan-Out da classe é de 25 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="29" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 10 (o máximo permitido é 7) classes [Date, InvalidReceiptException, JasperReportExporterBuilder, PrintWriter, ReceiptInfo, ReceiptXmlExport, SimpleDateFormat, StringWriter, Timestamp, XmlReportException]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="50" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/xmlreceipts/MateraBrazilReceipt.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/xmlreceipts/InvalidReceiptException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/UserTablespacesBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/DbaTablespaceBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/PasswordManagerBUImpl.java">
+<error line="19" column="1" severity="warning" message="Use a classe SecureRandom ao inves de Random" source="SCA-Static-Analisys-Weak-Random"/>
+<error line="42" column="1" severity="info" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="42" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 9 (o máximo permitido é 7) classes [Date, LogSenhaUsuario, Mio4WebException, Random, SgiPasswordChangeException, SgiPasswordCommandOracleException, SgiPasswordComplexityRequiredException, Timestamp, ValidaSenha]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="57" column="5" severity="info" message="A complexidade NPath é de 5,211 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/EmpresaBU.java">
+<error line="33" column="27" severity="warning" message="O nome &apos;CNPJ&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/TablespaceBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangeOperBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RegistraAcessosBUImpl.java">
+<error line="13" column="25" severity="warning" message="O nome &apos;LOGOK&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="14" column="25" severity="warning" message="O nome &apos;LOGERRO&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/HistoricoBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/NavRelJanelaSisBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/EmailReportSenderBUImpl.java">
+<error line="16" column="1" severity="warning" message="Use a classe SecureRandom ao inves de Random" source="SCA-Static-Analisys-Weak-Random"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/SmtpMioBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RecursoMioBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelAdmSubSisBUImpl.java">
+<error line="103" column="44" severity="warning" message="O nome &apos;RelAdmSubSisList&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="156" column="9" severity="info" message="A complexidade NPath é de 594 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/FourEyesBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/SpringJobConfigBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/JanelaSistemaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ServicoBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/LogCleanerBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ConfigMioBUImpl.java">
+<error line="347" column="9" severity="info" message="A complexidade NPath é de 192,400,000 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="347" column="9" severity="info" message="O NCSS para este método é de 126 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangeStatusBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelatAuditTabelasBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangePolicyBUImpl.java">
+<error line="70" column="9" severity="info" message="A complexidade NPath é de 2,184 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangeDataBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/AuditoriaColunaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/UnidadeNegocioBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/MensagemBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ISpringBean.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ChangeBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/CheckPasswordBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/UsuarioBdBUImpl.java">
+<error line="57" column="1" severity="info" message="A complexidade Fan-Out da classe é de 42 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="57" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 15 (o máximo permitido é 7) classes [AuditoriaUsr, Change, Date, Empresa, LogSenhaUsuario, Mio4WebException, NivelOperUsrSis, NivelOperUsrSisFake, NivelOperacao, SelectItemList, SubSistema, Timestamp, UnidadeNegocio, UsuarioBd, UsuarioSistema]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="132" column="9" severity="info" message="A complexidade NPath é de 1,800 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="333" column="9" severity="info" message="A complexidade NPath é de 86,416,243,200 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="333" column="9" severity="info" message="O NCSS para este método é de 176 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="687" column="9" severity="info" message="A complexidade NPath é de 3,020 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="687" column="9" severity="info" message="O NCSS para este método é de 63 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="770" column="9" severity="info" message="A complexidade NPath é de 26,880 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="1105" column="9" severity="info" message="A complexidade NPath é de 2,775 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="1105" column="37" severity="warning" message="O nome &apos;CPF&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="1109" column="17" severity="info" message="A complexidade da expressão booleana é de 10 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+<error line="1195" column="9" severity="info" message="A complexidade NPath é de 1,024 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/PasswordManagerBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelatUsuarioBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/IdiomaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/AuditoriaColunaBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelRecursoMioJanelaSisBUImpl.java">
+<error line="64" column="9" severity="info" message="A complexidade NPath é de 629 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/FourEyesBUImpl.java">
+<error line="66" column="1" severity="info" message="A complexidade Fan-Out da classe é de 44 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="66" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 11 (o máximo permitido é 7) classes [Change, ChangeData, ChangeHistory, ChangeOper, ChangeProcess, ChangeStatus, Date, LogSenhaUsuario, Mio4WebException, Timestamp, UsuarioSistema]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="177" column="9" severity="info" message="A complexidade NPath é de 252 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="237" column="9" severity="info" message="A complexidade NPath é de 18,432 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="237" column="9" severity="info" message="O NCSS para este método é de 59 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelRecursoMioJanelaSisBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ConfigLogBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelNivelOperJanelaBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/ConsBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelNivelOperJanelaSisBU.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/NavRelJanelaSisBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/NivelOperacaoBUImpl.java">
+<error line="48" column="1" severity="info" message="A complexidade Fan-Out da classe é de 33 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="48" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 10 (o máximo permitido é 7) classes [AuditoriaUsr, ChangeOper, Date, Empresa, Mio4WebException, NivelOperUsrSis, PermissaoJanela, RelNivelOperJanelaSis, SubSistema, UsuarioSistema]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="288" column="9" severity="info" message="A complexidade NPath é de 233,896 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="288" column="9" severity="info" message="O NCSS para este método é de 144 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="663" column="9" severity="info" message="A complexidade NPath é de 202 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="663" column="9" severity="info" message="O NCSS para este método é de 58 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="798" column="9" severity="info" message="O NCSS para este método é de 56 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="894" column="9" severity="info" message="A complexidade NPath é de 512 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/RelatUsuarioBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/bu/PendenciaHistoricoBUImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/EmailViewEntity.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/ReportEmailScheduleInit.java">
+<error line="25" column="34" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/ReportViewEntity.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/EmailSendingService.java">
+<error line="30" column="34" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/ReportGeneratingJob.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/JRTarget5Compiler.java">
+<error line="26" column="22" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/SpringBeanJob.java">
+<error line="20" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/JasperReportExporterBuilder.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/ReportGeneratingService.java">
+<error line="33" column="34" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+<error line="35" column="29" severity="warning" message="O nome &apos;PROCEDURE_TYPE&apos; deve condizer com o padrão &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="133" column="9" severity="info" message="O NCSS para este método é de 61 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/EmailSenderJob.java">
+<error line="22" column="34" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/SpringJobsScheduleInit.java">
+<error line="25" column="34" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/SpringUtils.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/JasperReportExporter.java">
+<error line="32" column="34" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/TipoEnvioEmail.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/report/JasperReportExportException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/NivelOperacaoDAOHibernate.java">
+<error line="51" column="25" severity="warning" message="O nome &apos;RCASCA&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/NavRelColunaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelatLoginInvalidoDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/AuditoriaTabelaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/AllUsersDAOJdbc.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ConfigLogDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelAdmSubSisDAO.java">
+<error line="52" column="28" severity="warning" message="O nome &apos;RelAdmSubSis&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/EscalonamentoProcDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/UnidadeNegocioDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/EmailReportConfigDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/UnidadeNegocioDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/PSdAuditoriaDao.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelatAuditoriaDAOHibernate.java">
+<error line="35" column="9" severity="info" message="A complexidade NPath é de 29,808 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="35" column="9" severity="info" message="O NCSS para este método é de 69 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="41" column="30" severity="warning" message="O nome &apos;SENHA_USUARIO_INVALIDO&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck"/>
+<error line="42" column="30" severity="warning" message="O nome &apos;LOG_OFF&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck"/>
+<error line="100" column="17" severity="info" message="A complexidade da expressão booleana é de 4 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/SubSistemaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/EmpresaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/MensagemDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeOperDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeDataDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ValidaSenhaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/NavRelColunaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/NivelOperUsrSisDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/UsuarioBdDAOHibernate.java">
+<error line="60" column="9" severity="info" message="A complexidade NPath é de 1,461 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/DbaProfileDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/AuditoriaColunaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangePolicyDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeHistoryDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/AcessoUsuarioDAOHibernate.java">
+<error line="29" column="9" severity="info" message="A complexidade NPath é de 326 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/DbaTablespaceDAOJdbc.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/JanelaSistemaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/DbaTablespaceDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelNivelOperJanelaSisDAO.java">
+<error line="33" column="37" severity="warning" message="O nome &apos;RelNivelOperJanelaSis&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/UserTablespacesDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RecursoMioDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/GenericDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/EscalonamentoProcDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelRecursoMioJanelaSisDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelatAuditTabelasDAOHibernate.java">
+<error line="33" column="9" severity="info" message="A complexidade NPath é de 660 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ConsMsgDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelNivelOperJanelaSisDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/PermissaoJanelaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/TabelaColunaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeProcessDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/UserTablespacesDAOJdbc.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/SpringJobConfigDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/NavRelJanelaSisDAOHibernate.java">
+<error line="41" column="9" severity="info" message="A complexidade NPath é de 731 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/EmailReportConfigDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/PendenciaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/DbaProfileDAOJdbc.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/LogSenhaUsuarioDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/OperAdministradorDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/LogDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/EmailSenderDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ConfigMioDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelNivelOperJanelaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/TabelaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/TabelaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/NivelOperUsrSisDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/OperAdministradorDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/NavProcDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelRecursoMioJanelaSisDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ConsDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/LogDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/AuditoriaUsrDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/TabelaColunaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/SmtpMioDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RecursoMioDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelatLogOperacoesDAOHibernate.java">
+<error line="33" column="9" severity="info" message="A complexidade NPath é de 28,674 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="33" column="9" severity="info" message="O NCSS para este método é de 71 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/OracleUserDAOJdbc.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/AuditoriaUsrDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/SequenceDAOJdbc.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelatAuditoriaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/GenericDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ConsMsgDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelatUsuarioDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/IdiomaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ConfigLogDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/UsuarioSistemaDAOHibernate.java">
+<error line="133" column="13" severity="info" message="A complexidade NPath é de 216 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/OrdemRelatDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelNivelUsuarioDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/OracleUserDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/SubSistemaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ConfigMioAuditDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ServicoDao.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/PermissaoJanelaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/SpringJobConfigDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/PendenciaHistoricoDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelatAuditTabelasDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/AllUsersDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/EmailSenderDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/PendenciaDAOHibernate.java">
+<error line="74" column="9" severity="info" message="A complexidade NPath é de 1,946 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ConfigMioAuditDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/NavRelJanelaSisDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeOperDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ServicoDaoHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelatLogOperacoesDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/AuditoriaTabelaDAOHibernate.java">
+<error line="43" column="9" severity="info" message="A complexidade NPath é de 6,563 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/NavProcDAOHibernate.java">
+<error line="41" column="9" severity="info" message="A complexidade NPath é de 326 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="82" column="9" severity="info" message="A complexidade NPath é de 731 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangePolicyDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/EmpresaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/NivelOperacaoDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/UsuarioBdDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ConfigMioDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/JanelaSistemaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelNivelOperJanelaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/AuditoriaColunaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/MensagemDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/AcessoUsuarioDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ConsDAOHibernate.java">
+<error line="46" column="5" severity="info" message="A complexidade NPath é de 58,320 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/TablespaceDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelAdmSubSisDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeHistoryDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/LogSenhaUsuarioDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelatUsuarioDAOHibernate.java">
+<error line="17" column="9" severity="info" message="A complexidade NPath é de 489 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeStatusDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/PendenciaHistoricoDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/TablespaceDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeDataDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ValidaSenhaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeStatusDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelNivelUsuarioDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RegistraAcessosDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/SequenceDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/OrdemRelatDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RegistraAcessosDAOJdbc.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/ChangeProcessDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/PSdAuditoriaDaoJdbc.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/IdiomaDAOHibernate.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/RelatLoginInvalidoDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/SmtpMioDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dao/UsuarioSistemaDAO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/util/LogIntegrationFilter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/util/InvalidAttributeException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/util/TypeConversionException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/util/ReflectionUtils.java">
+<error line="13" column="34" severity="warning" message="O nome &apos;conversionMappings&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+<error line="18" column="72" severity="warning" message="O nome &apos;DATE_FORMAT0&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="21" column="72" severity="warning" message="O nome &apos;DATE_FORMAT1&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="52" column="56" severity="warning" message="O nome &apos;DATE_FORMAT&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="153" column="27" severity="warning" message="O nome &apos;PRIME&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/util/Crypt.java">
+<error line="58" column="31" severity="warning" message="O nome &apos;new_desEdeKeySpec&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiCompanyGovernamentalIdInvalidException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiGovernamentalIdInvalidException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/Window.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/UserTokenValidator.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiCompanyAlreadyExistsException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiPermissionNotFoundException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/Company.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiPasswordCommandOracleException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiPasswordComplexityRequiredException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/Permission.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiUserNotFoundException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/Collaborator.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/InvalidUserTokenException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/UserTokenValidatorImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SdimioFacade.java">
+<error line="35" column="1" severity="info" message="A complexidade Fan-Out da classe é de 40 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="35" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 23 (o máximo permitido é 7) classes [Access, Collaborator, Company, Date, Empresa, Mio4WebException, NivelOperUsrSis, NivelOperacao, Permission, RelPermissaoJanelaAux, SgiCompanyAlreadyExistsException, SgiCompanyGovernamentalIdInvalidException, SgiCompanyNotFoundException, SgiGovernamentalIdDuplicatedException, SgiGovernamentalIdInvalidException, SgiPermissionAlreadyExistsException, SgiPermissionNotFoundException, SgiSdimioException, SgiUserAlreadyExistsException, SgiUserNotFoundException, SubSistema, UsuarioBd, Window]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="48" column="9" severity="info" message="A complexidade NPath é de 9,234 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="133" column="9" severity="info" message="A complexidade NPath é de 1,800 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="133" column="9" severity="info" message="O NCSS para este método é de 53 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="292" column="38" severity="warning" message="O nome &apos;NivelOperUsrSis&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiGovernamentalIdDuplicatedException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiSdimioException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiPasswordChangeException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/Access.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiIntegrationException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiCompanyNotFoundException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiIntegrationService.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiPermissionAlreadyExistsException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/bu/SgiUserAlreadyExistsException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/ui/SOAPRouter.java">
+<error line="35" column="34" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/ui/InvalidSearchRequestException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/ui/SOAPSpmlServlet.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/ui/IntegrationSpmlHandler.java">
+<error line="101" column="1" severity="info" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="101" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 13 (o máximo permitido é 7) classes [Access, Attribute, Collaborator, Company, Identifier, InvalidCurrentStatusValueException, InvalidModificationException, InvalidRequestException, InvalidSearchRequestException, Permission, RequiredAttributeNotFoundException, SearchResult, TypeConversionException]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="103" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+<error line="596" column="9" severity="info" message="O NCSS para este método é de 55 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/ui/InvalidRequestException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/ui/SpmlHandler.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/ui/DebugSOAPMonitor.java">
+<error line="12" column="34" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/ui/InvalidCurrentStatusValueException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/ui/RequiredAttributeNotFoundException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/integration/ui/InvalidModificationException.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/OrdemRelat.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/Tabela.java">
+<error line="131" column="19" severity="warning" message="O nome &apos;PRIME&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ChangeStatus.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/Tablespace.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelatAuditoria.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/SubSistema.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/TabelaAuditoria.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/NavRelJanelaSis.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ConsMsg.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/Empresa.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelPermissaoJanelaAux.java">
+<error line="91" column="9" severity="info" message="A complexidade NPath é de 2,048 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RecursoMio.java">
+<error line="45" column="34" severity="warning" message="O nome &apos;recursosNaoEditaveis&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/PermissaoJanela.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelNivelOperJanela.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/Idioma.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelRecursoMioJanelaSis.java">
+<error line="101" column="9" severity="info" message="A complexidade NPath é de 256 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/SistemasTO.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/SpringJobConfig.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/mail/AnexoRequisicaoEmail.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/mail/RequisicaoEnvioEmail.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ChangeData.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/Pendencia.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/AuditoriaUsr.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/DbaTablespace.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/TabelaColuna.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/NivelOperUsrSis.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelatAuditoriaFiltro.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/AllUsers.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/AcessoUsuario.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/UnidadeNegocio.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/OperAdministrador.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/SmtpMio.java">
+<error line="18" column="18" severity="warning" message="O nome &apos;id_smtp&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="28" column="17" severity="warning" message="O nome &apos;getId_smtp&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="32" column="17" severity="warning" message="O nome &apos;setId_smtp&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/filtros/UsuarioSistemaFiltro.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/PendenciaHistorico.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/EscalonamentoProc.java">
+<error line="122" column="5" severity="info" message="A complexidade NPath é de 65,536 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelatAuditTabelas.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/NivelOperacao.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelAdmSubSis.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelatLoginInvalido.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/Cons.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/CodigoOperacao.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/LogLevel.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelatUsuarios.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ValidaSenha.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ColunaAuditoria.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelServicoSubsistema.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelNivelOperJanelaSis.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/AuditoriaColuna.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PSdAuditoriaDropaTriggerImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PsdVersaoGetMinFrontend.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PsdVersaoGetMaxFrontend.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PSdAuditoriaDropaTrigger.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/LogCleanerExecutorImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PsdVersaoGetMinFrontendImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/RefreshImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PsdVersaoGetMaxFrontendImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PsdVersaoGetBackend.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PsdVersaoGetBackendImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PSdAuditoriaAtualizaTrigger.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/Refresh.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/LogCleanerExecutor.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PSdAuditoriaAtualizaTriggerImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PsdVersaoCheckFrontEnd.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/procedure/PsdVersaoCheckFrontEndImpl.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelatAuditTabelasFiltro.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ChangeHistory.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/EmailReportConfig.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/UsuarioBd.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/Mensagem.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/JanelaSistema.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ConfigLog.java">
+<error line="148" column="9" severity="info" message="A complexidade NPath é de 243 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/DbaProfile.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ChangeProcess.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/NavRelColuna.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/Change.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/Log.java">
+<error line="147" column="9" severity="info" message="A complexidade NPath é de 8,192 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="176" column="9" severity="info" message="A complexidade NPath é de 536,870,912 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="176" column="9" severity="info" message="O NCSS para este método é de 87 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ConfigMio.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/LogSenhaUsuario.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/UsuarioSistema.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelNivelUsuario.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ConfigMioAudit.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/NavProc.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/AuditoriaTabela.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/UserTablespaces.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/Servico.java">
+<error line="70" column="9" severity="info" message="A complexidade NPath é de 2,048 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ChangeOper.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/ChangePolicy.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/entity/RelatLogOperacoes.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/GeradorDumpJanelaSistema.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/GeradorDump.java">
+<error line="8" column="45" severity="warning" message="O nome &apos;dateFormat&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/GeradorDumpMensagem.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/DumpServlet.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/DumpSessionHelper.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/GeradorDumpEscalonamentoProc.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/GeradorDumpOrdemRelat.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/GeradorDumpRelLog.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/DumpReport.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/GeradorDumpTabela.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/GeradorDumpRelJanelas.java">
+<error line="12" column="5" severity="info" message="O NCSS para este método é de 99 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/dump/GeradorDumpSubSistema.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/ScaInit.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/AdministradorSistemasUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/LovSistemaUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/SenhaRoleUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/ServicoUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/converter/Trim.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/converter/IdiomaConverter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/converter/MascaraCPF.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/converter/WhiteValueConverter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/converter/ChangePolicyConverter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/ConsUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/UnidadeNegocioUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelNivelOperJanelaUI.java">
+<error line="38" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/ValidaSenhaUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/NivelOperacaoUI.java">
+<error line="48" column="1" severity="info" message="A complexidade Fan-Out da classe é de 26 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="245" column="9" severity="info" message="A complexidade NPath é de 2,237 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="245" column="9" severity="info" message="O NCSS para este método é de 53 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="543" column="25" severity="info" message="A complexidade da expressão booleana é de 5 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelatUsuariosNaoCadastradosUI.java">
+<error line="31" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/JanelaSistemaUI.java">
+<error line="36" column="1" severity="info" message="A complexidade Fan-Out da classe é de 22 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="36" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 8 (o máximo permitido é 7) classes [GeradorDumpJanelaSistema, JanelaSistema, NivelOperacaoWrapper, PermissaoJanela, PermissaoJanelaWrapper, RelNivelOperJanelaSis, SelectItemList, SubSistema]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/jsf/listener/ValidationPhaseListener.java">
+<error line="17" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/DesbloqueioUsuarioSistemaUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/UsuarioUI.java">
+<error line="60" column="1" severity="info" message="A complexidade Fan-Out da classe é de 36 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="60" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 8 (o máximo permitido é 7) classes [CryptoUtils, Date, GroupNode, LdapConnection, SelectItem, SelectItemList, SistemasTO, UsuarioBd]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="235" column="9" severity="info" message="A complexidade NPath é de 11,026,449 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="235" column="9" severity="info" message="O NCSS para este método é de 99 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="681" column="9" severity="info" message="A complexidade NPath é de 250 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/LovConsUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/SobreSistemaUI.java">
+<error line="39" column="1" severity="info" message="A complexidade Fan-Out da classe é de 23 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="45" column="31" severity="warning" message="O nome &apos;ARQUIVO_ADMINISTRADOR&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelatOperacaoUI.java">
+<error line="46" column="1" severity="info" message="A complexidade Fan-Out da classe é de 21 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="48" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelacionamentoJanelasUI.java">
+<error line="232" column="9" severity="info" message="A complexidade NPath é de 8,000 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlGroupByDataTableRenderer.java">
+<error line="35" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+<error line="38" column="5" severity="info" message="A complexidade NPath é de 3,104 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="38" column="5" severity="info" message="O NCSS para este método é de 57 (o máximo permitido é 50)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="205" column="26" severity="warning" message="O nome &apos;_style&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="206" column="21" severity="warning" message="O nome &apos;_idx&apos; deve condizer com o padrão &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlModalCloseButtonTag.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlModalCloseButtonRenderer.java">
+<error line="29" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlSelectManyPicklist.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlModal.java">
+<error line="33" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlModalRenderer.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlMessageRenderer.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlTextAreaRenderer.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/IAjaxRenderer.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlTextRenderer.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlSelectManyPicklistTag.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/IAjaxComponent.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlPicklistRenderer.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlModalCloseButton.java">
+<error line="31" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/UIGroupByDataTable.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlModalTag.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlTrimComponent.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/renderer/HtmlGroupByDataTableTag.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelatAuditoriaUI.java">
+<error line="42" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/listener/AjaxPhaseListener.java">
+<error line="47" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/ConfigMioUI.java">
+<error line="123" column="9" severity="info" message="A complexidade NPath é de 1,152 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+<error line="175" column="9" severity="info" message="A complexidade NPath é de 262,144 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelatLoginInvalidoUI.java">
+<error line="34" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/ChangePolicyUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/TrocaSenhaUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/MensagemUI.java">
+<error line="41" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 10 (o máximo permitido é 7) classes [BeanWrapper, Cons, ConsMsg, GeradorDumpMensagem, HtmlDataScroller, HtmlDataTable, Idioma, Mensagem, SelectItem, SelectItemList]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="255" column="25" severity="info" message="A complexidade da expressão booleana é de 6 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/SubSistemaUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelatUsuarioUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/ChangeProcessUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/filter/AjaxFilter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/filter/AddSecurityHeadersFilter.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/LoginUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelatAcessoUsuarioUI.java">
+<error line="49" column="1" severity="info" message="A complexidade Fan-Out da classe é de 29 (o máximo permitido é 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck"/>
+<error line="49" column="1" severity="info" message="O acoplamento de abstração de dados da classe é de 9 (o máximo permitido é 7) classes [BufferedInputStream, BufferedOutputStream, Empresa, FileInputStream, FileOutputStream, NivelOperacao, SelectItemList, SubSistema, UsuarioBd]" source="com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck"/>
+<error line="111" column="9" severity="info" message="A complexidade NPath é de 49,154 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/LovJanelaUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/PendenciaUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/EmpresaUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/HistoricoUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/DesbloqueioUsuarioUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/TablespaceUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RefreshUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/UsuariosSistemasUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/TrocaSenhaExternoUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/AuditoriaTabelasUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelatAuditTabelasUI.java">
+<error line="35" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/OrdemRelatUI.java">
+<error line="207" column="48" severity="info" message="A complexidade da expressão booleana é de 6 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelNivelUsuarioUI.java">
+<error line="39" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/UIBean.java">
+<error line="48" column="33" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/LovRecursoUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/UsuarioBdRelatorioUi.java">
+<error line="42" column="37" severity="warning" message="O nome &apos;log&apos; deve condizer com o padrão &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RecursoMioUI.java">
+<error line="202" column="40" severity="info" message="A complexidade da expressão booleana é de 6 (o máximo permitido é 3)." source="com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelLogUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/RelAdminSistemaUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/ConfigLogUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/SmtpMioUI.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/EscalonamentoProcUI.java">
+<error line="165" column="5" severity="info" message="A complexidade NPath é de 288 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/mio4web/ui/TabelaUI.java">
+<error line="58" column="5" severity="info" message="A complexidade NPath é de 3,315 (o máximo permitido é 200)." source="com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck"/>
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/tec/jsf/SelectItemIterator.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/java/com/matera/tec/jsf/SelectItemList.java">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/sgi_resources_en.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/banners.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/timezone.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/db.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/sdimio.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/csrfcontrol.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/PropertyManager.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/sgi_resources_pt.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/com/matera/mio4web/resource/messages_pt.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/email_reporting.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/facade.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/sso.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/mail.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/src/resources/sca-ldap-login.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/test/resources/convenios.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/test/resources/db.properties">
+</file>
+<file name="/home/andfer/Documentos/workplace/teste-build-segura/test/resources/sdimio.properties">
+</file>
+</checkstyle>
